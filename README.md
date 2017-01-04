@@ -117,4 +117,4 @@ On your host machine you should have the following software:
 | ----------- | ------- |
 | Vagrant     | 1.7+    |
 | Ansible     | 2.0+    |
-| VirtualBox  | 4.0+    |
+| VirtualBox  | 4.0+    | 
